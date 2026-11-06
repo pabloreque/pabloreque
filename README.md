@@ -1,21 +1,22 @@
-<h1 align="center">Hola! :)</h1>
+<h1 align="center">¡Hola! :)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Astrophysics-M2%20%40%20Observatoire%20de%20Paris--PSL-1f6feb?style=for-the-badge" alt="Astrophysics M2 at Observatoire de Paris-PSL" />
   <img src="https://img.shields.io/badge/Exoplanets-atmospheres%20%F0%9F%94%AD-8957e5?style=for-the-badge" alt="Exoplanet atmospheres" />
 </p>
 
-I'm **Pablo**, an astrophysics student who spends his days trying to figure out about faraway worlds. 🌌
+I'm **Pablo**, an astrophysics student who spends his days trying to understand worlds he can't visit (yet). 🌌
 
 I’m from **Madrid** (but born in Strasbourg), studied Physics at the **Universidad Complutense**, spent a wonderful year at **UC Berkeley**, and now I’m doing my Master’s in Space Science and Technology at the **Observatoire de Paris-PSL**. I’ve called several countries home, but I wouldn’t mind adding a few exoplanets to the list 🪐
+
+🎓 **Currently looking for a PhD in exoplanet atmospheres, starting in 2027.**
 
 ---
 
 ## 🔭 What I've worked on
 
-- **Simulated MICADO observations** of directly imaged exoplanets and retrieved their atmospheric parameters with [ForMoSA](https://github.com/exoAtmospheres/ForMoSA). This work is the basis of a paper in preparation I've coauthored (coming soon!).
+- **Simulated MICADO observations** of directly imaged exoplanets and retrieved their atmospheric parameters with [ForMoSA](https://github.com/exoAtmospheres/ForMoSA). This work is the basis of a paper I co-authored (submitted). I also contributed to the ForMoSA code itself and co-authored its paper (submitted to JOSS, [arXiv:2607.26243](https://arxiv.org/abs/2607.26243)).
 - **Read the atmosphere of HR 2562 b** with high-resolution spectra from HiRISE (ESO): data reduction, model comparison and hunting for molecules.
-- **Contributed to ForMoSA**: debugging, testing and a lot of `git` along the way. I'm proud of the co-authorship of the published article ([arXiv:2607.26243](https://arxiv.org/abs/2607.26243)).
 - **Explored how planets lose their atmospheres** during my internship at the Centro de Astrobiología, building a Python module for mass loss and atmospheric evolution.
 
 ## 🧰 My toolbox
@@ -33,7 +34,7 @@ NumPy · SciPy · Astropy · Pandas · Matplotlib · nested sampling & MCMC · c
 
 | Repo | What it is |
 |---|---|
-| [**ForMoSA**](https://github.com/exoAtmospheres/ForMoSA) | *FORward MOdeling tool for Spectral Analysis.* The Python code I contributed to and used for my atmospheric retrievals. |
+| [**ForMoSA**](https://github.com/exoAtmospheres/ForMoSA) | *FORward MOdeling tool for Spectral Analysis.* The Python code I contributed to (debugging, testing and a lot of `git`) and used for my atmospheric retrievals. |
 | [**MICADO_LSS_ForMoSA**](https://github.com/pabloreque/MICADO_LSS_ForMoSA) | Python scripts to plot my ForMoSA results. The plots for the paper are coming soon! 📊 |
 | [**RAD-2026**](https://github.com/FeatAstro/RAD-2026) | My project for the M2 Radiative Transfer course, on spectral line diagnostics. *(in progress 🚧)* |
 | [**HPC**](https://github.com/pabloreque/HPC) | A particle-in-cell (PIC) code for my High Performance Computing course. *(in progress 🚧)* |
@@ -41,12 +42,12 @@ NumPy · SciPy · Astropy · Pandas · Matplotlib · nested sampling & MCMC · c
 ## 🌍 Outside the telescope
 
 - ⚽ Devoted **Atlético de Madrid** supporter. I go to the stadium whenever I can. Suffering together is part of the deal.
-- 🎾 Very amateur paddle tennis player. Enthusiasm: 100%, technique: work in progress.
+- 🎾 Very amateur padel player. Enthusiasm: 100%, technique: work in progress.
 - 🎮 Gamer at heart: from cozy farming in *Stardew Valley* to medieval adventures in *Kingdom Come: Deliverance II*, with the occasional *FIFA* match in between. Also a curious observer of everything happening in AI.
 
 ## 🗣️ Languages
 
-🇪🇸 Spanish (native) · 🇬🇧 English (C2) · 🇫🇷 Français (B2 - C1)
+🇪🇸 Spanish (native) · 🇬🇧 English (C2) · 🇫🇷 French (B2–C1)
 
 ## 💌 Let's talk
 
